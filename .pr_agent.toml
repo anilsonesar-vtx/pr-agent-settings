@@ -1,7 +1,7 @@
 [pr_reviewer]
 enable_review_labels_effort = true
 require_score_review=true
-extra_instructions="Raise an error if the change is done without any comments"
+extra_instructions=" In addition to basic review, add these instructions as well: - Raise an error if the change is done without any comments"
 
 [best_practices]
 enable_global_best_practices = true
