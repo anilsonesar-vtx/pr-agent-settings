@@ -1,7 +1,7 @@
 [pr_reviewer]
 enable_review_labels_effort = true
 require_score_review=true
-extra_instructions="Raise an error if no comments are not added with change."
+extra_instructions="Raise an medium priority error when length of component is increased/decreased"
 
 [best_practices]
 enable_global_best_practices = true
