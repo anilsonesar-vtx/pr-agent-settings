@@ -1,1 +1,1 @@
-# Vistex-pr-agent-settings
+# Global-pr-agent-settings
