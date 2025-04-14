@@ -1,5 +1,6 @@
 [pr_reviewer]
 enable_review_labels_effort = true
+require_score_review=true
 
 [best_practices]
 enable_global_best_practices = true
